@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリは Git 動画講座用です．
-mainブランチで更新
+rebase-practiceブランチで更新(2nd)
